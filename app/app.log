@@ -1,0 +1,8 @@
+INFO:     114.205.152.65:1221 - "GET / HTTP/1.1" 200 OK
+INFO:     114.205.152.65:1221 - "GET /css/mdb.min.css HTTP/1.1" 200 OK
+INFO:     114.205.152.65:1225 - "GET /js/bootstrap.bundle.min.js HTTP/1.1" 200 OK
+INFO:     114.205.152.65:1228 - "GET /js/base.js HTTP/1.1" 200 OK
+INFO:     114.205.152.65:1226 - "GET /js/jquery-3.6.3.min.js HTTP/1.1" 200 OK
+INFO:     114.205.152.65:1222 - "GET /css/bootstrap.min.css HTTP/1.1" 200 OK
+INFO:     114.205.152.65:1222 - "GET /todo/read HTTP/1.1" 500 Internal Server Error
+INFO:     114.205.152.65:1221 - "GET /favicon.ico HTTP/1.1" 404 Not Found
